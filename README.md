@@ -1,6 +1,6 @@
 # RSA - Rivest-Shamir-Adleman
 
-Desenvolvimento do algoritmo de RSA para a criptografia e decriptografia, gerando chaves randomicas.
+Desenvolvimento do algoritmo de RSA para a criptografia e decriptografia, gerando chaves randômicas.
 Algorítmo desenvolvido para a máteria de Tópicos Avançados em Redes na intutuição Faculdade Engenheiro Salvador Arena.
 
 ### *Como executar:*
